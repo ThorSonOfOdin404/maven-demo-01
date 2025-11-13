@@ -1,0 +1,242 @@
+24-10-2025 23:41:48.952 INFO  GenericTestingFramework.TestScenario2:
+	Link https://demoqa.com/ is OK! 
+24-10-2025 23:41:49.365 INFO  GenericTestingFramework.TestScenario2:
+	Link http://demoqa.com/ is OK! 
+24-10-2025 23:41:50.025 WARN  GenericTestingFramework.TestScenario2:
+	Link http://the-internet.herokuapp.com/status_codes/500 is broken
+28-10-2025 20:45:52.969 INFO  GenericTestingFramework.TestScenario6:
+	Text from iframe1This is a sample heading of page 1
+28-10-2025 20:46:29.446 INFO  GenericTestingFramework.TestScenario6:
+	Text from iframe1This is a sample heading of page 1
+28-10-2025 20:46:29.507 INFO  GenericTestingFramework.TestScenario6:
+	Text from child iframe -:- iframe1This is a sample heading of page 2
+28-10-2025 20:51:07.990 INFO  GenericTestingFramework.TestScenario6:
+	Text from iframe1 : This is a sample heading of page 1
+28-10-2025 20:51:08.038 INFO  GenericTestingFramework.TestScenario6:
+		Text from child of iframe1 -:- This is a sample heading of page 2
+28-10-2025 20:52:13.888 INFO  GenericTestingFramework.TestScenario6:
+	Text from iframe1 : This is a sample heading of page 1
+28-10-2025 20:52:13.941 INFO  GenericTestingFramework.TestScenario6:
+		Text from child of iframe1 -:- This is a sample heading of page 2
+28-10-2025 20:52:14.009 INFO  GenericTestingFramework.TestScenario6:
+	Text from iframe2 : This is a sample heading of page 2
+28-10-2025 21:03:14.771 INFO  GenericTestingFramework.TestScenario6:
+	Text from iframe1 : This is a sample heading of page 1
+28-10-2025 21:03:14.824 INFO  GenericTestingFramework.TestScenario6:
+		Text from child of iframe1 -:- This is a sample heading of page 2
+28-10-2025 21:03:14.886 INFO  GenericTestingFramework.TestScenario6:
+	Text from iframe2 : This is a sample heading of page 2
+28-10-2025 21:03:59.116 INFO  GenericTestingFramework.TestScenario6:
+	Text from iframe1 : This is a sample heading of page 1
+28-10-2025 21:03:59.168 INFO  GenericTestingFramework.TestScenario6:
+		Text from child of iframe1 -:- This is a sample heading of page 2
+28-10-2025 21:03:59.245 INFO  GenericTestingFramework.TestScenario6:
+	Text from iframe2 : This is a sample heading of page 2
+30-10-2025 22:59:54.372 INFO  GenericTestingFramework.TestScenario7:
+	cookie1 has been set to expire tomorrow!
+30-10-2025 22:59:54.488 INFO  GenericTestingFramework.TestScenario7:
+	cookie1 = Value1
+30-10-2025 23:08:45.915 INFO  GenericTestingFramework.TestScenario7:
+	cookie1 has been set to expire tomorrow!
+30-10-2025 23:08:46.003 INFO  GenericTestingFramework.TestScenario7:
+	cookie1 = Value1
+30-10-2025 23:09:01.076 INFO  GenericTestingFramework.TestScenario7:
+	cookie1 has been set to expire tomorrow!
+30-10-2025 23:09:01.167 INFO  GenericTestingFramework.TestScenario7:
+	cookie1 = Value1
+30-10-2025 23:24:40.127 INFO  GenericTestingFramework.TestScenario7:
+	cookie1 has been set to expire tomorrow!
+30-10-2025 23:24:40.225 INFO  GenericTestingFramework.TestScenario7:
+	cookie1 = Value1
+30-10-2025 23:25:35.048 INFO  GenericTestingFramework.TestScenario7:
+	cookie1 has been set to expire tomorrow!
+30-10-2025 23:25:35.141 INFO  GenericTestingFramework.TestScenario7:
+	cookie1 = Value1
+30-10-2025 23:53:52.945 INFO  GenericTestingFramework.TestScenario7:
+	This is an alert message
+04-11-2025 18:46:06.610 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:48:29.383 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:51:04.027 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:52:06.172 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:55:28.509 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:55:28.515 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:56:05.744 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:56:05.746 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:56:55.335 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:56:55.336 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:56:58.892 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:56:58.893 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:57:31.351 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:57:31.353 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:57:52.315 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:57:52.317 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:57:52.317 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:59:04.068 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:59:04.070 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:59:21.822 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:59:21.824 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:59:34.988 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 18:59:34.989 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:01:14.617 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:01:14.618 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:01:14.619 WARN  LibraryManagementTest.AddBookTest:
+	java.lang.IllegalArgumentException: The quantity must not be less than 0
+04-11-2025 19:01:48.811 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:01:48.812 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:01:48.812 WARN  LibraryManagementTest.AddBookTest:
+	java.lang.IllegalArgumentException: The quantity must not be less than 0
+04-11-2025 19:02:20.833 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:02:20.835 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:02:20.835 WARN  LibraryManagementTest.AddBookTest:
+	java.lang.IllegalArgumentException: The quantity must not be less than 0
+04-11-2025 19:05:36.162 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:05:36.163 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:05:36.164 WARN  LibraryManagementTest.AddBookTest:
+	java.lang.IllegalArgumentException: The quantity must not be less than 0
+04-11-2025 19:06:38.154 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:06:38.155 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:09:13.194 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:09:13.195 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:18:43.229 INFO  org.mytest.LibraryManagement.Library:
+	3 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:18:43.263 INFO  org.mytest.LibraryManagement.Library:
+	Book ID : 10000 was borrowed.
+04-11-2025 19:18:43.263 INFO  org.mytest.LibraryManagement.Library:
+	Book ID : 10000 was borrowed.
+04-11-2025 19:18:43.263 INFO  org.mytest.LibraryManagement.Library:
+	Book ID : 10000 was borrowed.
+04-11-2025 19:20:25.404 INFO  org.mytest.LibraryManagement.Library:
+	3 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:20:25.442 INFO  org.mytest.LibraryManagement.Library:
+	Book ID : 10000 was borrowed.
+04-11-2025 19:20:25.442 INFO  org.mytest.LibraryManagement.Library:
+	Book ID : 10000 was borrowed.
+04-11-2025 19:20:25.442 INFO  org.mytest.LibraryManagement.Library:
+	Book ID : 10000 was borrowed.
+04-11-2025 19:27:05.345 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:27:05.346 INFO  org.mytest.LibraryManagement.Library:
+	0 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:27:44.569 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:27:44.570 INFO  org.mytest.LibraryManagement.Library:
+	0 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:27:45.389 INFO  org.mytest.LibraryManagement.Library:
+	3 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:27:45.423 INFO  org.mytest.LibraryManagement.Library:
+	Book ID : 10000 was borrowed.
+04-11-2025 19:27:45.423 INFO  org.mytest.LibraryManagement.Library:
+	Book ID : 10000 was borrowed.
+04-11-2025 19:27:45.423 INFO  org.mytest.LibraryManagement.Library:
+	Book ID : 10000 was borrowed.
+04-11-2025 19:37:47.143 INFO  org.mytest.LibraryManagement.Library:
+	3 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:37:47.186 INFO  org.mytest.LibraryManagement.Library:
+	Book ID : 10000 was borrowed.
+04-11-2025 19:37:47.186 INFO  org.mytest.LibraryManagement.Library:
+	Book ID : 10000 was borrowed.
+04-11-2025 19:37:47.186 INFO  org.mytest.LibraryManagement.Library:
+	Book ID : 10000 was borrowed.
+04-11-2025 19:37:47.982 INFO  org.mytest.LibraryManagement.Library:
+	2 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:37:48.019 INFO  org.mytest.LibraryManagement.Library:
+	6 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:45:52.247 INFO  org.mytest.LibraryManagement.Library:
+	2 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:45:52.286 INFO  org.mytest.LibraryManagement.Library:
+	6 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:46:39.150 INFO  org.mytest.LibraryManagement.Library:
+	2 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:46:39.186 INFO  org.mytest.LibraryManagement.Library:
+	6 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:48:19.768 INFO  org.mytest.LibraryManagement.Library:
+	2 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:48:19.804 INFO  org.mytest.LibraryManagement.Library:
+	6 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:49:43.753 INFO  org.mytest.LibraryManagement.Library:
+	2 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:49:43.792 INFO  org.mytest.LibraryManagement.Library:
+	6 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:50:09.042 INFO  org.mytest.LibraryManagement.Library:
+	2 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:50:09.119 INFO  org.mytest.LibraryManagement.Library:
+	6 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:50:42.833 INFO  org.mytest.LibraryManagement.Library:
+	2 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:50:42.870 INFO  org.mytest.LibraryManagement.Library:
+	6 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:50:43.662 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:52:04.195 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:52:43.020 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:52:43.022 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:55:07.725 INFO  org.mytest.LibraryManagement.Library:
+	3 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:55:07.726 INFO  org.mytest.LibraryManagement.Library:
+	0 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:55:07.727 INFO  org.mytest.LibraryManagement.Library:
+	2 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:55:07.763 INFO  org.mytest.LibraryManagement.Library:
+	6 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:58:35.802 INFO  org.mytest.LibraryManagement.Library:
+	3 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:58:35.803 INFO  org.mytest.LibraryManagement.Library:
+	0 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:58:35.803 INFO  org.mytest.LibraryManagement.Library:
+	2 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 19:58:35.840 INFO  org.mytest.LibraryManagement.Library:
+	6 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 20:04:07.430 INFO  org.mytest.LibraryManagement.Library:
+	4 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 20:04:07.431 INFO  org.mytest.LibraryManagement.Library:
+	1 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 20:04:07.432 INFO  org.mytest.LibraryManagement.Library:
+	2 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 20:04:07.467 INFO  org.mytest.LibraryManagement.Library:
+	6 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 20:06:09.357 INFO  org.mytest.LibraryManagement.Library:
+	3 Book(s) with ISBN : 0012344321678 was/were added to library
+04-11-2025 20:06:09.395 INFO  org.mytest.LibraryManagement.Library:
+	Book ID : 10000 was borrowed.
+04-11-2025 20:06:09.395 INFO  org.mytest.LibraryManagement.Library:
+	Book ID : 10000 was borrowed.
+04-11-2025 20:06:09.395 INFO  org.mytest.LibraryManagement.Library:
+	Book ID : 10000 was borrowed.
