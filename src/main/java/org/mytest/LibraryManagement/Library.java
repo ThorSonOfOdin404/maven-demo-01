@@ -1,6 +1,5 @@
 package org.mytest.LibraryManagement;
 
-import com.sun.istack.internal.NotNull;
 import lombok.NoArgsConstructor;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
@@ -20,7 +19,7 @@ public class Library {
     public void addBook(Book book) {
         this.addBook(book,1);
     }
-    public boolean addBook(@NotNull Book book, int Qty){
+    public boolean addBook(Book book, int Qty){
         if(book != null && Qty >= 0) {
             final String isbn = book.getISBN();
             books.add(book);
