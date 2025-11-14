@@ -117,7 +117,7 @@ public class TestScenario9 extends BaseClass{
 
     @Test
     public void TestCheckBoxAndRadios(){
-        driver.get("http://localhost:8800/radioAndCheckboxes/");
+        driver.get("http://localhost:8800/form/radioAndCheckboxes/");
 
         List<WebElement> checkboxes = driver.findElements(By.name("lang"));
         for(WebElement checkbox : checkboxes){
@@ -139,13 +139,13 @@ public class TestScenario9 extends BaseClass{
 
     @Test
     public void TestSelectSortingOrder(){
-        driver.get("http://localhost:8800/selectMenu");
+        driver.get("http://localhost:8800/form/selectMenu");
 
         WebElement cars = driver.findElement(By.id("cars"));
         //List of cars in menu are not in sorted order
         Select carsSelectMenu = new Select(cars);
-        //This should fail
-        Assert.assertTrue(testSorting(carsSelectMenu));
+
+        Assert.assertFalse(testSorting(carsSelectMenu));
 
     }
 
@@ -156,13 +156,6 @@ public class TestScenario9 extends BaseClass{
             return elem1.getAttribute("value").compareTo(elem2.getAttribute("value"));
         } );
         return options.equals(sortedList);
-    }
-
-    public static void main(String[] args) {
-    int x = 1173741824;
-    int y = 1172311824;
-        System.out.println(x+y);
-
     }
 }
 

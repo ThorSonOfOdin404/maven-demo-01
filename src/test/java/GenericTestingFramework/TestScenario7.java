@@ -22,7 +22,7 @@ public class TestScenario7 extends BaseClass{
     }
     @Test
     public void Test1(){
-        driver.get("http://localhost:8800");
+        driver.get("http://localhost:8800/alerts");
         // Clicking the set cookie button
         driver.findElement(By.xpath("//button[contains(text(),'Alert')]")).click();
         // Alert comes on page
